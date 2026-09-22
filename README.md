@@ -84,3 +84,8 @@ It also helped me understand how programming concepts such as loops, conditions,
 **Project 1: Rule-Based AI Chatbot**
 
 Developed as part of my AI Engineering Internship learning journey.
+
+
+## Demo
+
+Watch the chatbot in action here: [chatbot.mp4](chatbot.mp4)
